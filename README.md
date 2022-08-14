@@ -1,4 +1,4 @@
-# Go(lang) Reference
+# Go Reference
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
